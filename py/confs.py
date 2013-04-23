@@ -3,6 +3,7 @@ Created on 2012-3-7
 
 @author: GeZiyang
 '''
+#########################
 from urllib import urlopen
 import urllib2
 import cookielib
